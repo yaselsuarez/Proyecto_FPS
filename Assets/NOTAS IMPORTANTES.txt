@@ -1,0 +1,15 @@
+01 - Cuando giras con el arma tiene un ligero movimiento
+02 - Minimapa
+03 - Añadir sonidos de efectos y/o banda sonora
+04 - Si presionamos SHIFT LEFT el personaje corre 
+05 - Tiene menú inicial 
+06 - Teletransporte 
+07 - Recoge Vidas (La barra se actualiza)
+08 - Recoge Balas (La barra se actualiza)
+09 - Recoge Estrellas para la inmunidad (Se muestra un icono de escudo)
+10 - Recoge Diamantes verdes para salto (Muestra un icono en pantalla)
+11 - Los enemigos tienen animación
+12 - Nuestro personaje tiene animacion
+13 - El Enemigo tiene barra de vida que siempre apunta hacia nosotros
+14 - Instancia Enemigos en diferentes puntos para ello cada el tiempo que le digamos
+15 - Instancia Extras Arma y Vida pero se pueden poner los demas

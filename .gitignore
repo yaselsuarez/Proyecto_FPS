@@ -1,0 +1,139 @@
+# ====================
+# Unity generated
+# ====================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# ====================
+# Visual Studio / Rider
+# ====================
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.VC.db
+
+# ====================
+# JetBrains Rider
+# ====================
+.idea/
+*.sln.iml
+
+# ====================
+# VS Code
+# ====================
+.vscode/
+
+# ====================
+# OS generated
+# ====================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# ====================
+# Unity specific
+# ====================
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/AssetStoreOriginals*
+/externaldependencymanager*
+/Assets/ExternalDependencyManager/
+
+# ====================
+# Asset Store tools
+# ====================
+*/[Bb]in/
+*/[Dd]ebug/
+*/[Rr]elease/
+*.log
+
+# ====================
+# Gradle (Android)
+# ====================
+.gradle/
+gradle/
+!gradle/wrapper/gradle-wrapper.jar
+local.properties
+*.apk
+*.aab
+
+# ====================
+# NuGet packages
+# ====================
+Packages/[Bb]uild/
+Packages/[Bb]in/
+Packages/[Rr]eleases/
+
+# ====================
+# Crashlytics
+# ====================
+crashlytics-build.properties
+
+# ====================
+# Unity Cache
+# ====================
+/[Cc]ache/
+/[Cc]aches/
+/[Ss]ource[Aa]sset[Dd]atabase*
+/[Aa]rtifact[Dd]b*
+/[Aa]nnotation[Mm]anager
+/[Ss]cript[Mm]apper
+/[Ss]tyle.[Cc]atalog
+/[Ee]xpanded[Ii]tems
+/[Ii]nspector[Ee]xpanded[Ii]tems.asset
+/[Ss]cene[Vv]isibility[Ss]tate.asset
+/[Cc]urrent[Ll]ayout-default.dwlt
+/[Cc]urrent[Mm]aximize[Ll]ayout.dwlt
+/[Bb]uild[Pp]layer.prefs
+/[Bb]uild[Ss]ettings.asset
+/[Ee]ditor[Ss]nap[Ss]ettings.asset
+/[Ee]ditor[Uu]ser[Bb]uild[Ss]ettings.asset
+/[Mm]ono[Mm]anager.asset
+/[Ll]ast[Bb]uild.buildreport
+/[Ll]ast[Ss]cene[Mm]anager[Ss]etup.txt
+/[Ll]ibrary[Ff]ormat[Vv]ersion.txt
+/[Ss]prite[Aa]tlas[Dd]atabase.asset
+
+# ====================
+# ReSharper
+# ====================
+*.[Rr]e[Ss]harper*
+*.DotSettings.user
+
+# ====================
+# Profiler
+# ====================
+*/[Pp]rofiler/
+
+# ====================
+# Cloud / Services
+# ====================
+/[Pp]roject[Ss]ettings/[Pp]ackage[Mm]anager[Ss]ettings.asset.meta
+
+# ====================
+# Keep these important files
+# ====================
+!/[Aa]ssets/
+!/[Pp]roject[Ss]ettings/
+!/[Pp]ackages/
+!/[Uu]ser[Ss]ettings/

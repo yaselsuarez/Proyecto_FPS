@@ -1,0 +1,118 @@
+# ====================
+# Unity .gitattributes
+# ====================
+
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Unity scripts (C#) - text files with diff
+*.cs text diff=csharp
+*.cginc text
+*.shader text
+*.hlsl text
+*.hlslinc text
+
+# Unity project files
+*.unity text diff=unity
+*.prefab text diff=unity
+*.asset text diff=unity
+*.meta text
+*.mat text
+*.controller text
+*.anim text
+*.overrideController text
+*.mask text
+*.renderTexture text
+*.spriteatlas text
+*.terrainlayer text
+*.signal text
+
+# Unity settings
+*.playable text
+*.physicMaterial text
+*.physicsMaterial2D text
+*.preset text
+
+# Text serialization format
+*.scenetemplate text
+
+# JSON / XML
+*.json text
+*.xml text
+*.xsl text
+*.xsd text
+
+# Documentation
+*.md text
+*.txt text
+
+# Images - binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tga binary
+*.bmp binary
+*.psd binary
+*.tiff binary
+*.gif binary
+*.exr binary
+*.hdr binary
+*.ico binary
+
+# Audio - binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.aiff binary
+*.aif binary
+*.mod binary
+*.it binary
+*.s3m binary
+*.xm binary
+
+# Video - binary
+*.mp4 binary
+*.mov binary
+*.avi binary
+*.asf binary
+*.m4v binary
+
+# Models - binary
+*.fbx binary
+*.dae binary
+*.3ds binary
+*.dxf binary
+*.obj binary
+*.skp binary
+*.blend binary
+*.blend1 binary
+*.max binary
+*.mb binary
+*.ma binary
+*.c4d binary
+*.lxo binary
+*.abc binary
+
+# Fonts - binary
+*.otf binary
+*.ttf binary
+*.fon binary
+*.fnt binary
+
+# Archives - binary
+*.zip binary
+*.rar binary
+*.7z binary
+*.gz binary
+*.tar binary
+*.unitypackage binary
+
+# Other binary
+*.bytes binary
+*.bin binary
+*.dll binary
+*.exe binary
+*.so binary
+*.dylib binary
+*.a binary
+*.lib binary

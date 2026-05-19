@@ -10,7 +10,7 @@
 
 ## 📹 Video del Proyecto
 
-[![Ver en YouTube](https://img.shields.io/badge/YouTube-Ver%20Video%20Completo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=pTZw-p_Dmug)
+[![Ver en YouTube](https://img.shields.io/badge/YouTube-Ver%20Video%20Completo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=6nMbwOboL1k)
 
 Mira el gameplay completo y la explicación del desarrollo en mi canal de YouTube.
 
